@@ -6,7 +6,7 @@ Santos Laguna , STS
 END_PLAYERS
 Real San Luis, SNL
 END_PLAYERS
-Querétaro, QRO
+Queretaro, QRO
 END_PLAYERS
 Pachuca, PAC
 END_PLAYERS
@@ -16,7 +16,7 @@ CD Toluca, TOL
 END_PLAYERS
 Cruz Azul, CAZ
 END_PLAYERS
-América, AME
+America, AME
 END_PLAYERS
 Pumas de la UNAM, UNAM
 END_PLAYERS
@@ -40,11 +40,11 @@ Correcaminos de la UAT, UAT
 END_PLAYERS
 Irapuato, IRA
 END_PLAYERS
-León, LEO
+Leon, LEO
 END_PLAYERS
 Toros Celaya, CEL
 END_PLAYERS
-Unión de Curtidores, CUR
+Union de Curtidores, CUR
 END_PLAYERS
 Tiburones Rojos de Veracruz, VER
 END_PLAYERS
