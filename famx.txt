@@ -1,0 +1,64 @@
+Xolos de Tijuana, TIJ
+END_PLAYERS
+Dorados de Sinaloa , DOR
+END_PLAYERS
+Santos Laguna , STS
+END_PLAYERS
+Real San Luis, SNL
+END_PLAYERS
+Queretaro, QRO
+END_PLAYERS
+Pachuca, PAC
+END_PLAYERS
+Toros Neza, NEZ
+END_PLAYERS
+CD Toluca, TOL
+END_PLAYERS
+Cruz Azul, CAZ
+END_PLAYERS
+America, AME
+END_PLAYERS
+Pumas de la UNAM, UNAM
+END_PLAYERS
+Zacatepec, ZAC
+END_PLAYERS
+Necaxa, NEC
+END_PLAYERS
+Coras Tepic, COR
+END_PLAYERS
+Monarcas Morelia, MOR
+END_PLAYERS
+La Piedad, PIE
+END_PLAYERS
+Tigres de la UANL, TIG
+END_PLAYERS
+Monterrey, MTY
+END_PLAYERS
+Tampico Madero, TM
+END_PLAYERS
+Correcaminos de la UAT, UAT
+END_PLAYERS
+Irapuato, IRA
+END_PLAYERS
+Leon, LEO
+END_PLAYERS
+Toros Celaya, CEL
+END_PLAYERS
+Union de Curtidores, CUR
+END_PLAYERS
+Tiburones Rojos de Veracruz, VER
+END_PLAYERS
+Puebla, PUE
+END_PLAYERS
+Atlante, ATE
+END_PLAYERS
+Jaguares de Chiapas, JAG
+END_PLAYERS
+CD Guadalajara, CHIVAS
+END_PLAYERS
+Atlas, ATS
+END_PLAYERS
+Tecos de la UAG, UAG
+END_PLAYERS
+Universidad de Guadalajara, UDG
+END_PLAYERS
